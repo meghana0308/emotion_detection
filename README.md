@@ -66,5 +66,6 @@ For any questions, please contact: Meghana: meghanavjiet@gmail.com
 
 ## Output
 Emotion Detection
+fear , sad , neutral , happy
+![image](https://github.com/user-attachments/assets/49d74ee9-6a6a-487b-815f-46055157a49a)
 
-(Replace the placeholder with actual screenshots if available.)
