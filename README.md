@@ -65,7 +65,7 @@ Additional configuration is managed through the code and does not require user m
 For any questions, please contact: Meghana: meghanavjiet@gmail.com
 
 ## Output
-Emotion Detection
+Emotion Detection :     
 fear , sad , neutral , happy
 ![image](https://github.com/user-attachments/assets/49d74ee9-6a6a-487b-815f-46055157a49a)
 
